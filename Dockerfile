@@ -1,4 +1,4 @@
-FROM alpine:3.21.3
+FROM alpine:3.21.5
 
 # Define redis and smtp-cli details
 ARG REDIS_VERSION="7.4.1"
